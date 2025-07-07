@@ -449,7 +449,7 @@ body {
   display: inline-block;
   padding: 1rem 3rem;
   font-size: 1.7rem;
-  color: #fff;
+  color: #ff0000;
   background-color: var(--primary);
   cursor: pointer;
 }
